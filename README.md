@@ -7,7 +7,7 @@ Submitted for class project, Broadband Communication Networks, SJSU Instructed b
 Following are the steps for installation:
 
 1. Install Virtual Machine (I have used VmWare Workstation15)
-2. Install Mininet in the device (install mininet using “sudo apt-get install mininet “ command)
+2. Install Mininet in the device (install mininet using 'sudo apt-get install mininet' command)
 3. Install SDN controller. I have used RYU controller for this project (use command "%pip install ryu")
 4. Install a virtual switch OpenvSwitch (use commands “sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils” & “sudo apt-get install openvswitch-switch)
 
