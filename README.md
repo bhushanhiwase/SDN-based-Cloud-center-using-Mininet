@@ -2,7 +2,7 @@
 
 Simulation of SDN based Cloud center using Mininet, Authors - Bhushan Hiwase
 
-Submitted for class project, Broadband Communication Networks, SJSU Instructed by Prof Nadir Mir.
+Submitted for class project, Subject; Broadband Communication Networks, SJSU Instructed by Prof Nadir Mir.
 
 Following are the steps for installation:
 
